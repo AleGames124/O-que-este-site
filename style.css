@@ -1,0 +1,83 @@
+body{
+    background-image: linear-gradient(to top,rgb(190, 123, 21), rgb(206, 141, 0), rgb(190, 123, 21));
+}
+
+#article1{
+    background-color: rgb(70, 70, 70);
+    border-radius: 10px;
+}
+
+#article2{
+    background-image: linear-gradient(to top, rgb(168, 168, 168), rgb(99, 99, 99));
+    border-radius: 10px;
+}
+#article3{
+    background-image: linear-gradient(to top, rgb(168, 168, 168), rgb(99, 99, 99));
+    border-radius: 10px;
+}
+
+#article4{
+    background-color: white;
+    border-radius: 10px;
+}
+
+#Icon{
+    height: 25px;
+}
+
+#Icon1{
+    width: 45px;
+}
+
+#Icon2{
+    color: chocolate;
+    display: inline-block;
+}
+
+#Menu2{
+    background-image: linear-gradient(to top, rgb(168, 168, 168), rgb(70, 70, 70));
+    border-radius: 10px;
+    display: inline-block;
+}
+
+#Menu{
+    background-color: rgb(70, 70, 70);
+    border-radius: 10px;
+    display: inline-block;
+}
+
+#button_back{
+    width: 25px;
+}
+
+#emoji_img{
+    width: 60px;
+    border-right: solid 3px rgb(70, 70, 70);
+}
+
+#Emoji_text{
+    margin-top: -46px;
+    margin-left: 70px;
+    border-radius: 10px;
+}
+
+#Download{
+    width: 100px;
+    height: 50%;
+}
+
+#H2_1{
+    color: white;
+}
+
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h2{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h3{
+    font-family: Arial, Helvetica, sans-serif;
+}
